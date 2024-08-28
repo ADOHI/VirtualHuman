@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.srcnalt.openai-unity": "https://github.com/alphdevcode/OpenAI-Unity.git#feature/text-to-speech",
     "com.unity.ai.navigation": "2.0.3",
     "com.unity.collab-proxy": "2.4.4",
     "com.unity.ide.rider": "3.0.31",
